@@ -5,9 +5,6 @@ void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - Printf function
  * @format: format.
- * @width: get width.
- * @precision:get Precision specification
- *@size: get size
  * Return: Printed chars.
 */
 
